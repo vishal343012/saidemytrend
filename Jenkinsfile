@@ -1,4 +1,4 @@
-ef registry = 'https://trialkub2kx.jfrog.io'
+def registry = 'https://trialkub2kx.jfrog.io'
 
 pipeline {                                    // 1  // Defines the start of the Jenkins pipeline block
 
